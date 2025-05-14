@@ -1,6 +1,8 @@
 ## Hi, I'm Ângelo Gabriel
 
-<p align="center">IT student at Fundação Matias Machline, passionate about programming</p>&nbsp;
+<p>📍Student at Jala University - Software Engineering (2025 - Present)</p>
+<p>📍Student at North University Center (Uninorte) - Computer Science (2025 - Present)</p>
+<p>📍Graduated at Fundação Matias Machline - Computing Course (2022 - 2024)</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=angelosicssu&theme=dracula&mode=weekly" />
