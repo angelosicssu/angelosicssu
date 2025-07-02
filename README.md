@@ -1,18 +1,18 @@
 # 👋 Hi, my name is Ângelo Gabriel!
 
 💻 Fullstack Developer | TypeScript · Node.js · NestJS · React · React Native · Next.js  
-📍 Based in Brazil | Computer Science Student | Passionate about scalable, real-world solutions
+🎓 Software Engineering in Jala University  
+📍 Based in Brazil | Passionate about real-world, scalable solutions
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Fullstack Developer** passionate about building efficient and scalable applications that make a real impact.  
-I discovered programming in high school and quickly fell in love with the power of technology to solve problems and improve lives.
+I'm a **Fullstack Developer** and a student of **Software Engineering**, passionate about building efficient, scalable, and impactful applications.
 
-I enjoy working across the entire development stack — from crafting clean and intuitive user interfaces to designing secure, high-performance APIs and managing relational databases.
+I discovered programming in high school and quickly fell in love with the power of technology to solve real-life problems. Since then, I've been committed to learning continuously and applying best practices to create clean, maintainable, and user-centered systems.
 
-I’m constantly expanding my knowledge and aiming to collaborate on **innovative, purpose-driven projects**, always seeking to improve code quality, performance, and user experience.
+I enjoy working across the entire stack — from intuitive front-end interfaces to robust APIs and database design — and I’m always looking for ways to improve as a developer and as a teammate.
 
 ---
 
@@ -25,20 +25,22 @@ TypeScript · JavaScript · Node.js · NestJS · React.js · React Native · Nex
 PostgreSQL · MySQL
 
 **Tools & Practices**  
-Docker · Git · RESTful APIs · Agile · Clean Architecture · SOLID Principles
+Docker · Git · RESTful APIs · Agile Methodologies · Clean Architecture · SOLID Principles
 
 ---
 
 ## 🎯 What I’m Focused On
 
-- Creating real-world applications with modern technologies  
-- Improving performance and code quality through clean code practices  
-- Collaborating with teams to ship features that solve real problems  
-- Continuously learning and contributing to open-source and tech communities  
+- Delivering real-world, end-to-end software solutions  
+- Learning and applying clean code and scalable architecture practices  
+- Collaborating with cross-functional teams  
+- Contributing to projects that have a positive impact
 
 ---
 
 ## 📫 Let’s Connect!
+
+I'm open to new opportunities, collaborations, and tech conversations:
 
 <div> 
 <a href="https://www.instagram.com/angelogb_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
