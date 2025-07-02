@@ -1,20 +1,14 @@
-# 👋 Hi, my name is Ângelo Gabriel!
+# Hi, my name is Ângelo Gabriel!
 
-💻 Fullstack Developer | TypeScript · Node.js · NestJS · React · React Native · Next.js  
-🎓 Software Engineering in Jala University  
-📍 Based in Brazil | Passionate about real-world, scalable solutions
-
----
+- Fullstack Developer | TypeScript · Node.js · NestJS · React · React Native · Next.js
+- Software Engineering in Jala University
+- Based in Brazil | Passionate about real-world, scalable solutions
 
 ## 🧑‍💻 About Me
 
-I'm a **Fullstack Developer** and a student of **Software Engineering**, passionate about building efficient, scalable, and impactful applications.
-
-I discovered programming in high school and quickly fell in love with the power of technology to solve real-life problems. Since then, I've been committed to learning continuously and applying best practices to create clean, maintainable, and user-centered systems.
-
-I enjoy working across the entire stack — from intuitive front-end interfaces to robust APIs and database design — and I’m always looking for ways to improve as a developer and as a teammate.
-
----
+- I'm a **Fullstack Developer** and a student of **Software Engineering**, passionate about building efficient, scalable, and impactful applications.
+- I discovered programming in high school and quickly fell in love with the power of technology to solve real-life problems. Since then, I've been committed to learning continuously and applying best practices to create clean, maintainable, and user-centered systems.
+- I enjoy working across the entire stack — from intuitive front-end interfaces to robust APIs and database design — and I’m always looking for ways to improve as a developer and as a teammate.
 
 ## 🚀 Tech Stack
 
@@ -27,16 +21,12 @@ PostgreSQL · MySQL
 **Tools & Practices**  
 Docker · Git · RESTful APIs · Agile Methodologies · Clean Architecture · SOLID Principles
 
----
-
 ## 🎯 What I’m Focused On
 
 - Delivering real-world, end-to-end software solutions  
 - Learning and applying clean code and scalable architecture practices  
 - Collaborating with cross-functional teams  
 - Contributing to projects that have a positive impact
-
----
 
 ## 📫 Let’s Connect!
 
